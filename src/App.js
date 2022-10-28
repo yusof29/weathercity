@@ -49,7 +49,7 @@ function App() {
 
   // fetch the data without axios
   // useEffect(() => {
-  //   const url = `http://api.openweathermap.org/data/2.5/forecast?q=${location}&units=metric&appid=${APIKey}`;
+  //   const url = `https://api.openweathermap.org/data/2.5/forecast?q=${location}&units=metric&appid=${APIKey}`;
 
   //   setLoading(true);
 
@@ -75,7 +75,7 @@ function App() {
 
   // fetch the data with axios
   useEffect(() => {
-    const url = `http://api.openweathermap.org/data/2.5/forecast?q=${location}&units=metric&appid=${APIKey}`;
+    const url = `https://api.openweathermap.org/data/2.5/forecast?q=${location}&units=metric&appid=${APIKey}`;
 
     setLoading(true);
 

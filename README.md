@@ -1,10 +1,10 @@
-# Coffee Chemistry
+# Weather City
 
-[Live Site](http://coffeechemistry.netlify.com/) | [Design](https://raw.githubusercontent.com/juliajcodes/CoffeeChemistry/master/images/CoffeeChemistry.jpg) | [Creator](http://juliacodes.com/)
+[Live Site](https://weatherct.netlify.app/)
 
 ```
-Minimal React Application that helps you brew the perfect cup of
-coffee, even if you're a coffee brewing newbie.
+Web application that helps you find the current weather in your city.
+A short react project to refresh myself on the best practices of api's when used with react.
 ```
 
-![Coffee Chemistry](https://raw.githubusercontent.com/juliajcodes/CoffeeChemistry/master/images/CoffeeChemistry.jpg "Coffee Chemistry")
+![Weather City](https://github.com/yusof29/weathercity/blob/bb78b5f7e55c7953ac201c7c1979722bb2b2968e/src/assets/readme/weatherCity.png "Weather City")
